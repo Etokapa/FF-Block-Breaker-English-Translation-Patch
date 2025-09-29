@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/8d84fe7f-eed3-418f-88a1-71d515ec8304)
 
-# FF-Block-Breaker-English-Translation-Patch
+# FF Block Breaker English Translation Patch
 
 This is a small English translation patch for the mobile Keitai game **FF Brick Breaker** _(FFぶろっくくずし)_, recovered and archived by [Keitai World](https://keitaiwiki.com/wiki/KeitaiWiki).  
 
