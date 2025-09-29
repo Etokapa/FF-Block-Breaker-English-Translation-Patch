@@ -6,7 +6,7 @@ This is a small English translation patch for the mobile Keitai game **FF Brick 
 
 # Install
 
-1. Download FF_ Brick_Breaker_[E].zip.
+1. Download `FF_ Brick_Breaker_[E].zip`.
 2. Extract and overwrite all files.
 
 ## Notes
